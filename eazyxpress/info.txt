@@ -1,0 +1,20 @@
+Shipper info:
+	Company name or name
+	address
+	city 
+	prov
+	postal code (option)
+	description
+	pieces
+	weight
+	dimensions (w*h*l)
+	Additional notes
+	Signature
+	Driver number 
+Deliver to:
+	Company name
+	Address
+	city
+	prov
+	phone number
+	
